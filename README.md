@@ -8,7 +8,7 @@ Effects of vegetation cover on abundance of two peccary species in the southern 
 
 - [Database `.csv`](https://github.com/fblpalmeira/peccary_abundance/tree/main/data)
 
-<img src="">
+<img src="https://github.com/fblpalmeira/peccary_abundance/blob/main/img/30daychallenge_day5.png">
 
 Reference: 
 
