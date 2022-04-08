@@ -173,7 +173,7 @@ library(magrittr)
 
 # Call back the plot
 plot <- image_read("peccary_plot.png")
-plot2<-image_annotate(plot, "Effects of vegetation cover on abundance of white-lipped peccary in the southern Brazilian Amazonia", color = "blue", size = 25, 
+plot2<-image_annotate(plot, "Effects of vegetation cover on abundance of the white-lipped peccary in the southern Brazilian Amazonia", color = "blue", size = 25, 
                       location = "10+50", gravity = "north")
 plot3<-image_annotate(plot2, "Data source: Palmeira, FBL and Trinca, CTT (unpublished data) | Visualization by @fblpalmeira", color = "gray", size = 20, 
                       location = "10+50", gravity = "southeast")
