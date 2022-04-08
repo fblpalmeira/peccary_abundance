@@ -12,4 +12,4 @@ Effects of vegetation cover on abundance of two peccary species in the southern 
 
 Reference: 
 
-Palmeira, FBLP and Trinca, CTT. Effects of vegetation cover on abundance of two peccary species in the southern Brazilian Amazonia. Unpublished data.
+Palmeira, FBLP and Trinca, CTT. Unpublished data. Effects of vegetation cover on abundance of two peccary species in the southern Brazilian Amazonia.
