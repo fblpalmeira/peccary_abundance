@@ -2,7 +2,7 @@
 
 # Day 5 (5 April 2022) | Slope
 
-Effects of vegetation cover on abundance of two peccary species in the southern Brazilian Amazonia (Palmeira and Trinca, unpublished data).
+Effects of vegetation cover on abundance of the white-lipped peccary in the southern Brazilian Amazonia (Palmeira and Trinca, unpublished data).
 
 - [Script `.R`](https://github.com/fblpalmeira/peccary_abundance/blob/main/script/30daychallenge_day5.R)
 
@@ -12,4 +12,4 @@ Effects of vegetation cover on abundance of two peccary species in the southern 
 
 Reference: 
 
-Palmeira, FBLP and Trinca, CTT. Unpublished data. Effects of vegetation cover on abundance of two peccary species in the southern Brazilian Amazonia.
+Palmeira, FBLP and Trinca, CTT. Unpublished data. Effects of vegetation cover on abundance of the white-lipped peccary in the southern Brazilian Amazonia.
