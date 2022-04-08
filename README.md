@@ -4,7 +4,7 @@
 
 Effects of vegetation cover on abundance of two peccary species in the southern Brazilian Amazonia (Palmeira and Trinca, unpublished data).
 
-- [Script `.R`]()
+- [Script `.R`](https://github.com/fblpalmeira/peccary_abundance/blob/main/script/30daychallenge_day5.R)
 
 - [Database `.csv`](https://github.com/fblpalmeira/peccary_abundance/tree/main/data)
 
